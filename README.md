@@ -18,5 +18,5 @@ This repository contains all the coursework, projects, and study materials relat
 ## Acknowledgements
 - Thanks to all the professors and educators who contributed to the course materials.
 - Appreciation for the developers and researchers behind the algorithms and visualization tools we used.
-- Special thanks to the course peers for their insights and collaborative efforts.
+- Special thanks to my partner Aliasghar Chakera, [Linkedin](https://www.linkedin.com/in/aliasgharchakera/) and [Github](https://github.com/aliasgharchakera)
 
